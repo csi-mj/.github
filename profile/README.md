@@ -31,7 +31,7 @@ Membership drive alert! Be part of the coolest tech gang in town. Contact our HR
 ## Connect With Us
 
 - **Website:** [CSI MJCET HQ](#)
-- **LinkedIn:** [CSI MJCET Social Zone](#)
+- **LinkedIn:** [CSI MJCET Social Zone](https://www.linkedin.com/company/csi-mjcet/mycompany/)
 - **GitHub:** [CSI MJCET Code Bash](#)
 - **Email:** [csi@mjcollege.ac.in](mailto:csi@mjcollege.ac.in) 📧
 
