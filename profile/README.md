@@ -32,7 +32,7 @@ Membership drive alert! Be part of the coolest tech gang in town. Contact our HR
 
 - **Website:** [CSI MJCET HQ](#)
 - **LinkedIn:** [CSI MJCET Social Zone](https://www.linkedin.com/company/csi-mjcet/mycompany/)
-- **GitHub:** [CSI MJCET Code Bash](#)
+- **GitHub:** [CSI MJCET Code Bash](https://github.com/csi-mj)
 - **Email:** [csi@mjcollege.ac.in](mailto:csi@mjcollege.ac.in) 📧
 
 Get ready to ride the tech rollercoaster with CSI MJCET – where coding is a carnival and learning is the ultimate thrill! 🎢👩‍💻
